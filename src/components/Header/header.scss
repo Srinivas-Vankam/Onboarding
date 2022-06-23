@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    width:auto;
+    align-items: center;
+    margin: 4% auto;
+
+    img{
+        height: 4rem;
+        width: 4rem;
+    }
+
+    span{
+        font-size: 2rem;
+        font-weight: 600;
+        color: var(--color-primary-text-dark);
+    }
+    
+}
